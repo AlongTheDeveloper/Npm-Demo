@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo51",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlongTheDeveloper/Npm-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlongTheDeveloper/Npm-Demo/issues"
+  },
+  "homepage": "https://github.com/AlongTheDeveloper/Npm-Demo#readme"
+}
